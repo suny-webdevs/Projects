@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "page": "Home",
+    "route": "/"
+  },
+  {
+    "id": 2,
+    "page": "About",
+    "route": "/about"
+  },
+  {
+    "id": 3,
+    "page": "Services",
+    "route": "/services"
+  },
+  {
+    "id": 4,
+    "page": "Blog",
+    "route": "/blog"
+  },
+  {
+    "id": 5,
+    "page": "Contact",
+    "route": "/contact"
+  }
+]

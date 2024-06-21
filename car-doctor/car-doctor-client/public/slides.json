@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "../src/assets/images/homeCarousel/1.jpg",
+    "title": "Affordable Price For Car Servicing",
+    "description": "There are many variations of passages of  available, but the majority have suffered alteration in some form"
+  },
+  {
+    "id": 2,
+    "image": "../src/assets/images/homeCarousel/2.jpg",
+    "title": "Affordable Price For Car Servicing",
+    "description": "There are many variations of passages of  available, but the majority have suffered alteration in some form"
+  },
+  {
+    "id": 3,
+    "image": "../src/assets/images/homeCarousel/3.jpg",
+    "title": "Affordable Price For Car Servicing",
+    "description": "There are many variations of passages of  available, but the majority have suffered alteration in some form"
+  },
+  {
+    "id": 4,
+    "image": "../src/assets/images/homeCarousel/4.jpg",
+    "title": "Affordable Price For Car Servicing",
+    "description": "There are many variations of passages of  available, but the majority have suffered alteration in some form"
+  }
+]
